@@ -46,6 +46,10 @@ PMI® CAPM Certification – In Progress
 
 ---
 
+# Resume
+
+[📄 Download Resume](Kiran%20Murmu%20-%20Project%20Lead%20-%20Remote.pdf)
+
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/kiran-murmu/
