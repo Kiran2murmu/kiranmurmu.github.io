@@ -21,6 +21,7 @@ I lead cross-functional analytics and technology projects, helping teams improve
 ### 📌 From Scattered Updates to a Single Source of Truth
 
 How fragmented project updates across Excel, emails, and calls were streamlined into a centralized project tracking process.
+Outcome: Improved project visibility and reduced dependency on ad hoc status updates.
 
 [Read Case Study](case-studies/single-source-of-truth.md)
 
@@ -29,6 +30,7 @@ How fragmented project updates across Excel, emails, and calls were streamlined 
 ### 📌 Recovering a Delayed Cross-Functional Project
 
 How structured governance, risk tracking, and stakeholder alignment helped bring a delayed project back on track.
+Outcome: Improved delivery predictability through proactive risk and dependency management.
 
 [Read Case Study](case-studies/project-recovery.md)
 
@@ -52,6 +54,8 @@ PMI® CAPM Certification – In Progress
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/kiran-murmu/
+# Contact
 
-Email: kiranmurmu.iitk@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kiran-murmu/)
+
+📧 kiranmurmu.iitk@gmail.com
