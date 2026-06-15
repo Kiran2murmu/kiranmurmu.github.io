@@ -19,4 +19,4 @@ This repository hosts my GitHub Pages website, where I showcase:
 
 **Portfolio Website:** Coming soon
 
-**LinkedIn:** ([Add your LinkedIn URL here](https://www.linkedin.com/in/kiran-murmu/))
+**LinkedIn:** [https://www.linkedin.com/in/kiran-murmu/]
