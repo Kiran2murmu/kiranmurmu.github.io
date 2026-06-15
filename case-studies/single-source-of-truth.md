@@ -1,5 +1,13 @@
 # Case Study: From Scattered Updates to a Single Source of Truth
+## Quick Overview
 
+**Role:** Project Lead  
+**Focus Area:** Project visibility, stakeholder communication, process adoption  
+**Tools:** Monday.com, Excel, Email, Status Tracking  
+**Problem:** Project updates were scattered across multiple channels, causing inconsistent reporting and repeated follow-ups.  
+**Outcome:** Established a centralized tracking process and improved visibility across engineering and business teams.
+
+---
 ## Overview
 
 A project tracking platform had been introduced to improve visibility across engineering and business teams. Despite the investment, project updates continued to be maintained in individual Excel trackers, while business stakeholders relied on emails and direct calls for status updates.
