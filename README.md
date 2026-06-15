@@ -12,7 +12,6 @@ This repository hosts my GitHub Pages website, where I showcase:
 ## Featured Case Studies
 
 - From Scattered Updates to a Single Source of Truth
-- Managing Scope Creep
 - Project Recovery
 
 ---
