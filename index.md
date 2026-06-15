@@ -1,54 +1,45 @@
 # Kiran Murmu
 
-## Project Lead 
+## Project Lead | Cross-Functional Delivery | Process Improvement
 
-Welcome to my Project Management Portfolio.
+I’m a Project Lead with 4+ years of experience managing analytics-driven and technology projects across cross-functional teams.
 
-I am a Project Lead with 4+ years of experience delivering cross-functional analytics and technology initiatives. This portfolio showcases practical case studies that demonstrate my approach to project delivery, stakeholder management, and process improvement.
-
----
-
-# Featured Case Studies
-
-## 📌 From Scattered Updates to a Single Source of Truth
-
-Improving project visibility by centralizing communication and reducing fragmented status tracking.
-
-[Read the Case Study](case-studies/single-source-of-truth.md)
+This portfolio showcases practical project management case studies focused on stakeholder alignment, delivery tracking, process improvement, and workflow optimization.
 
 ---
 
-## 📌 Recovering a Delayed Cross-Functional Project
+## Featured Case Studies
 
-Addressing delivery risks through stakeholder alignment and structured governance.
+### 📌 From Scattered Updates to a Single Source of Truth
 
-[Read the Case Study](case-studies/project-recovery.md)
+How fragmented project updates across Excel, emails, and calls were streamlined into a centralized project tracking process.
 
----
-
-# Skills
-
-- Project Planning
-- Agile Delivery
-- Stakeholder Management
-- Process Improvement
-- Workflow Automation
-- Risk Management
-- Monday.com
-- JIRA
-- Excel
+[Read Case Study](case-studies/single-source-of-truth.md)
 
 ---
 
-# Certifications
+### 📌 Recovering a Delayed Cross-Functional Project
 
-PMI® Certification In Progres
+How structured governance, risk tracking, and stakeholder alignment helped bring a delayed project back on track.
+
+[Read Case Study](case-studies/project-recovery.md)
 
 ---
 
-# Contact
+## Core Skills
+
+Project Planning · Stakeholder Management · Agile Delivery · Risk Management · Process Improvement · Workflow Automation · Monday.com · Excel · Cross-Functional Coordination
+
+---
+
+## Certification
+
+PMI® CAPM Certification – In Progress
+
+---
+
+## Contact
 
 LinkedIn: https://www.linkedin.com/in/kiran-murmu/
-
 
 Email: kiranmurmu.iitk@gmail.com
