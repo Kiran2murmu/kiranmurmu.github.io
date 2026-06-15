@@ -16,6 +16,6 @@ This repository hosts my GitHub Pages website, where I showcase:
 
 ---
 
-**Portfolio Website:** Coming soon
+**Portfolio Website:** https://kiran2murmu.github.io/kiranmurmu.github.io/
 
 **LinkedIn:** [https://www.linkedin.com/in/kiran-murmu/]
