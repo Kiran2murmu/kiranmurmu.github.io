@@ -1,14 +1,22 @@
 # Kiran Murmu
 
-## Project Lead | Cross-Functional Delivery | Process Improvement
+Project Lead | CAPM® Candidate
 
-I’m a Project Lead with 4+ years of experience managing analytics-driven and technology projects across cross-functional teams.
+I lead cross-functional analytics and technology projects, helping teams improve visibility, streamline delivery, and solve operational challenges.
 
-This portfolio showcases practical project management case studies focused on stakeholder alignment, delivery tracking, process improvement, and workflow optimization.
+### Portfolio Highlights
 
----
+✓ 4+ years of project leadership experience
 
-## Featured Case Studies
+✓ Managing a team of 9 analysts and contractors
+
+✓ Experience across analytics, telecom, and technology initiatives
+
+✓ Focus areas: Stakeholder Management, Agile Delivery, Process Improvement, Workflow Automation
+
+[About Me](about.md)
+
+# Project Management in Practice
 
 ### 📌 From Scattered Updates to a Single Source of Truth
 
