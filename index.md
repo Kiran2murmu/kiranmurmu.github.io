@@ -38,6 +38,16 @@ How structured governance, risk tracking, and stakeholder alignment helped bring
 
 ---
 
+### 📌 Managing Scope Creep Without Delaying Delivery
+
+Balancing evolving stakeholder requests while protecting delivery timelines through structured prioritization and release planning.
+
+**Outcome:** 17 additional requests assessed, 5 prioritized for the current release, 12 scheduled for future releases, with zero delivery delay.
+
+[Read Case Study](case-studies/scope-creep.md)
+
+---
+
 ## Core Skills
 
 Project Planning · Stakeholder Management · Agile Delivery · Risk Management · Process Improvement · Workflow Automation · Monday.com · Excel · Cross-Functional Coordination
